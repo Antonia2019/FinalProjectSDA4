@@ -1,1 +1,1 @@
-Project for SDA Iasi4 group
+Project for SDA Iasi
